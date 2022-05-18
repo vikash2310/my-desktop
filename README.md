@@ -7,4 +7,4 @@ This wasy you can run linux apps on containers. <br/>
 
 All apps are in `dockerfiles` folder. Every app has an `install.sh` which will put an alias into your `bashrc` so you can run the container.
 
-I also maintain my bashrc in this repo.
+I'm trying to maintain my bashrc in this repo.
